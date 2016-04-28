@@ -1,0 +1,12 @@
+*.class
+*.log
+/.settings
+/.settings/*
+/bin
+/bin/*
+.classpath
+.project
+build
+build/*
+.filebeat
+.gradle/*
